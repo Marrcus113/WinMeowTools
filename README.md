@@ -1,5 +1,5 @@
 
-# 🧰 WinTools
+# 🧰 WinMeowTools
 
 **Коллекция полезных утилит для Windows**
 
